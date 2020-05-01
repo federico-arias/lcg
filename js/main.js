@@ -319,7 +319,7 @@ jQuery(document).ready(function($) {
 						"enforce"
 					)
 				)
-					break;
+					return;
 				e.preventDefault();
 
 				var hash = this.hash;
