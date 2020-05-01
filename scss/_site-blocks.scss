@@ -98,6 +98,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 		}
 	}
 
+@media (max-width: 400px) {
+.img-absolute {
+		transform: translateY(25%) translateX(0%);
+	}
+}
+
 .site-block-subscribe {
 	.btn {
 		padding-left: 20px;

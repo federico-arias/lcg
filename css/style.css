@@ -590,6 +590,9 @@ h1, h2, h3, h4, h5,
       transform: translateY(0%) translateX(0%);
       margin-bottom: 30px; } }
 
+@media (max-width: 400px) {
+  .img-absolute {
+    transform: translateY(25%) translateX(0%); } }
 .site-block-subscribe .btn {
   padding-left: 20px;
   padding-right: 20px; }
