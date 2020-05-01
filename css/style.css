@@ -517,12 +517,12 @@ h1, h2, h3, h4, h5,
 /* Blocks */
 .primary-gradient, .bg-image2.overlay:before {
   background: #4286f4;
-  background: -moz-linear-gradient(left, #4286f4 0%, #42e2f4 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, #4286f4), color-stop(100%, #42e2f4));
-  background: -webkit-linear-gradient(left, #4286f4 0%, #42e2f4 100%);
-  background: -o-linear-gradient(left, #4286f4 0%, #42e2f4 100%);
-  background: -ms-linear-gradient(left, #4286f4 0%, #42e2f4 100%);
-  background: linear-gradient(to right, #4286f4 0%, #42e2f4 100%);
+  background: -moz-linear-gradient(left, #423545 0%, #423545 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, #423545), color-stop(100%, #423545));
+  background: -webkit-linear-gradient(left, #dc3545 0%, #dc3545 100%);
+  background: -o-linear-gradient(left, #dc3545 0%, #dc3545 100%);
+  background: -ms-linear-gradient(left, #dc3545 0%, #dc3545 100%);
+  background: linear-gradient(to right, #dc3545 0%, #dc3545 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', endColorstr='#42e2f4', GradientType=1 ); }
 
 .site-blocks-cover {

@@ -1,11 +1,11 @@
 .primary-gradient {
 	background: rgba(66,134,244,1);
-background: -moz-linear-gradient(left, rgba(66,134,244,1) 0%, rgba(66,226,244,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(0%, rgba(66,134,244,1)), color-stop(100%, rgba(66,226,244,1)));
-background: -webkit-linear-gradient(left, rgba(66,134,244,1) 0%, rgba(66,226,244,1) 100%);
-background: -o-linear-gradient(left, rgba(66,134,244,1) 0%, rgba(66,226,244,1) 100%);
-background: -ms-linear-gradient(left, rgba(66,134,244,1) 0%, rgba(66,226,244,1) 100%);
-background: linear-gradient(to right, rgba(66,134,244,1) 0%, rgba(66,226,244,1) 100%);
+background: -moz-linear-gradient(left, rgba(66,53,69,1) 0%, rgba(66,53,69,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(66,53,69,1)), color-stop(100%, rgba(66,53,69,1)));
+background: -webkit-linear-gradient(left, rgba(220,53,69,1) 0%, rgba(220,53,69,1) 100%);
+background: -o-linear-gradient(left, rgba(220,53,69,1) 0%, rgba(220,53,69,1) 100%);
+background: -ms-linear-gradient(left, rgba(220,53,69,1) 0%, rgba(220,53,69,1) 100%);
+background: linear-gradient(to right, rgba(220,53,69,1) 0%, rgba(220,53,69,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', endColorstr='#42e2f4', GradientType=1 );
 }
 
@@ -22,7 +22,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 		// background-
 		content: "";
 		right: 0;
-	} 
+	}
 	&.overlay {
 		position: relative;
 		&:before {
@@ -47,27 +47,27 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 	&.inner-page-cover {
 		&, & > .container > .row {
 			min-height: 400px;
-			height: calc(20vh);		
+			height: calc(20vh);
 		}
 	}
-	
+
 	h1 {
 		font-size: 3.5rem;
 		font-weight: 400;
 		color: $black;
 		font-weight: 900;
 		@include media-breakpoint-down(md) {
-			font-size: 2rem;	
+			font-size: 2rem;
 		}
 	}
 	p {
 		color: $gray-600;
 		font-size: $font-size-base;
-		
+
 		font-weight: 300;
 
 	}
-	
+
 	.intro-text {
 		font-size: 16px;
 		line-height: 1.5;
@@ -203,7 +203,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 	&.no-margin-top {
 		margin-top: 0px;
 	}
-	
+
 	.feature-block-1 {
 		position: relative;
 		top: 0;
@@ -307,9 +307,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 	overflow: hidden;
 	border: 1px solid lighten($black, 90% );
 	&, .text {
-		border-radius: 4px;	
+		border-radius: 4px;
 		border-top: none!important;
-	} 
+	}
 	.date {
 		color: #ccc;
 		font-weight: normal;
@@ -355,7 +355,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 				color: $black;
 
 			}
-			
+
 		}
 	}
 }
@@ -363,7 +363,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 
 .block-13, .slide-one-item {
 	position: relative;
-	z-index: 1; 
+	z-index: 1;
 	.owl-nav {
 		position: relative;
 		position: absolute;
@@ -381,7 +381,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 			}
 		}
 	}
-} 
+}
 
 .slide-one-item {
 	&.home-slider {
@@ -396,7 +396,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 			@include media-breakpoint-down(md) {
 				display: none;
 			}
-		}	
+		}
 		.owl-prev {
 			left: 10px!important;
 		}
@@ -410,11 +410,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 			padding: 0px;
 			height: 50px;
 			width: 50px;
-			border-radius: 50%;	
+			border-radius: 50%;
 			transform: translateY(-50%);
 			background: rgba($black, .2);
 			transition: .3s all ease-in-out;
-			
+
 			line-height: 0;
 			text-align: center;
 			font-size: 25px;
@@ -428,7 +428,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 				left: 50%;
 				transform: translate(-50%, -50%);
 			}
-			
+
 			&:hover, &:focus {
 				background: rgba($black, 1);
 			}
@@ -440,7 +440,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 				visibility: visible;
 			}
 		}
-	}	
+	}
 	.owl-dots {
 		text-align: center;
 		.owl-dot {
@@ -503,7 +503,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 			box-shadow: 0 0 20px -5px rgba(0,0,0,.3);
 			background: $white;
 			padding: 10px;
-			margin-right: 30px;			
+			margin-right: 30px;
 			position: relative;
 			@include media-breakpoint-up(sm) {
 				padding: 20px;
@@ -1034,7 +1034,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 		}
 		a {
 			span {
-				
+
 				color: $white;
 				transition: .3s all ease;
 			}
@@ -1080,10 +1080,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 		border-radius: 30px;
 		padding: 10px 30px;
 		@include media-breakpoint-down(lg) {
-			
+
 				width: 100%!important;
 				display: block;
-			
+
 		}
 	}
 }
@@ -1102,7 +1102,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 		> span {
 			line-height: 0;
 			font-size: 40px;
-			
+
 		}
 	}
 	.caption {
@@ -1128,7 +1128,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 		.icon {
 			color: $white;
 			span {
-				
+
 			}
 		}
 		.number {
@@ -1168,7 +1168,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 			transform: scale(1.2);
 		}
 	}
-	
+
 	.listing-item-content {
 		position: absolute;
 		bottom: 20px;
@@ -1345,7 +1345,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 			position: relative;
 			color: $white;
 			font-size: 1.5rem;
-			transition: .4s all ease-in-out;		
+			transition: .4s all ease-in-out;
 			opacity: 0;
 			visibility: hidden;
 			bottom: -10px;
@@ -1353,7 +1353,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 		}
 		.category {
 			position: relative;
-			transition: .3s all ease-in-out;		
+			transition: .3s all ease-in-out;
 			opacity: 0;
 			bottom: -10px;
 			visibility: hidden;
@@ -1611,7 +1611,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4286f4', end
 /*PRELOADING------------ */
 #overlayer {
   width:100%;
-  height:100%;  
+  height:100%;
   position:fixed;
   z-index:7100;
   background: $white;
