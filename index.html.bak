@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>LCG | Liedtke Consulting Group</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+	<link rel="icon" href="favicon.png" type="image/png" sizes="16x16"/>
+	<link rel="icon" href="favicon.png" type="image/png" sizes="32x32"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/style.css">
+
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+  <div id="ex1" class="modal">
+		<p>
+			Executive and Team Coach, certificado por Newfield
+			Network y en las herramientas de Assesment Ejecutivo
+			HOGAN, 360° Kaplan-DeVries y Denison. Fundador, director
+			y CEO de Liedtke Consulting Group. Profesor de Desarrollo
+			en Habilidades Directivas del Centro de Educación
+			Ejecutiva Universidad Adolfo Ibañez. Coach asociado de
+			Latitud 90 y Global Coaching Group.
+			Director de la ICF (International Coach Federation 2011 a 2015).
+			Cofundador de LCS Liedtke Coaching School (Mayo 2015).
+			Actualmente se desemepeña como Executive and Team Coach para la Alta Dirección.
+			Aprendió mucho de lo que sabe sobre liderazgo durante su desarrollo profesional en Alemania y Chile, donde lideró equipos en el retail por más de 15 años. 
+		</p>
+		  <a href="#" rel="modal:close"></a>
+  </div>
+  <div id="ex2" class="modal">
+		<p>
+			Publicista Profesional. Se desempeño por varios años en
+			el área de planificación de una agencia de publicidad internacional.
+			Su espíritu de aventura la llevó por un tiempo a trabajar de
+			tripulante en Linea Aérea y vivir en el extranjero durante largo tiempo.
+			Posteriormente se unió al equipo LCG para apoyar labores administrativas.
+			Actualmente se desempeña como coordinadora de programas COI.
+		</p>
+		  <a href="#" rel="modal:close">Cerrar</a>
+  </div>
+  <div id="ex3" class="modal">
+		<p>
+		Ingeniero Comercial, MBA con Internship at M.I.T. Diploma en Habilidades
+		Directivas y Liderazgo de la UAI. Coach Profesional, con certificación
+		internacional en "Coaching para la Gestión de Proyectos" por IPO, y
+		en metodología "Inmunidad al Cambio" at Harvard. Participante del programa
+		"Leadership for the 21st Century", de Harvard. Programas de especialización
+		en: - Coaching de Equipo, por la Escuela Europea de Coaching, y por
+		John Whitmore. - Inner Coaching y el Juego Interior, con Tim Gallwey.
+		Coaching con PNL, con Joseph O’Connor. Director del capítulo chileno de
+		la International Coach Federation (ICF) por 4 años. Co-Fundador de
+		la Escuela de Coaching Organizacional, Liedtke Coaching School.
+
+		<!--
+		Creo en una nueva forma de SER y HACER en la vida, y que podemos
+		cambiar el estado emocional en el que vimos: del Miedo, que nos lleva al Control,
+		a la Gratitud, que nos lleva a la Confianza. Creo que en cada persona, y por ende en cada organización, existe el
+		potencial para lograr sus sueños, y que muchas veces solo basta con identificar
+		las "interferencias" que impiden alcanzar máximo rendimiento.
+		-->
+		</p>
+		  <a href="#" rel="modal:close">Cerrar</a>
+  </div>
+  <div id="ex4" class="modal">
+		<p>
+			Ingeniero Comercial Trilingüe, Coach Ontológico certificado
+			por la escuela internacional “The Newfield Network” y diplomado
+			en Gestión de Personas de la “Universidad Adolfo Ibáñez”, además de
+			contar con formación en diversas metodologías complementarias al coaching y gestión
+			de personas. Durante su carrera ha liderado por más de 7 años áreas de gestión de personas. También ha realizado docencia en cátedras de desarrollo de habilidades ejecutivas y de emprendimiento e innovación, y liderado procesos de acompañamiento y posicionamiento laboral, posicionamiento de casas de estudio como Pontificia Universidad Católica de Valparaíso, Universidad San Sebastián, Eclass e Instituto La Araucana. Desde su formación como coach se ha desempeñado como coach ejecutivo, organizacional y de vida, facilitando procesos tanto en espacios individuales como grupales, liderando proyectos en distintas organizaciones en diversas etapas que abordan desde el diagnóstico de una problemática, el diseño de la intervención y la ejecución de ésta misma. Actualmente se desempeña como Coach y Consultor Organizacional, liderando procesos con diversas empresas nacionales y multinacionales; también como Executive Coach, con principal foco en gerentes de primeras líneas y sus reportes directos y como Life Coach, en sesiones particulares.
+		</p>
+		  <a href="#" rel="modal:close">Cerrar</a>
+  </div>
+  <div id="ex5" class="modal">
+		<p>
+			Coach certificado por la Escuela 3 S (Sistemas Sociales Sustentables),
+			certificado en la herramienta de assessment ejecutivo HOGAN. Actualmente se desempeña
+			como Tutor en la empresa de Outplacement Lukkap Chile, asesor en
+			la Fundación Amanoz experta en acompañamiento del Adulto Mayor y asesor en la Empresa TRF
+			Logistica. Ingeniero Comercial PUCV, MBA de UDD, con más de 30 años de experiencia en
+			empresas latinoamericanas con presencia internacional del consumo masivo (Empresas Carozzi SA y ARCOR Chile)
+			y commodities (GERDAU Chile), cumpliendo roles de Gerente de Área y como Gerente General los últimos 15 años.
+			Convencido del papel del trabajo en equipo, interesado en el uso de modelos de gestión y motivado por incorporar
+			permanentemente la innovación.
+		</p>
+		  <a href="#" rel="modal:close">Cerrar</a>
+  </div>
+  <div id="ex6" class="modal">
+		<p>
+			Periodista - UNAB
+			Coach Ontológico Profesional – Newfield Network
+			Coach Ejecutivo / Coach de Equipos / Facilitador de Grupos – Liedtke Consulting School
+			Facilitadora de grupos con Metodología Gestalt Empowerment
+			Facilitadora Immunity to Change de Harvard University
+			Analista Certificada Neuroview, assessment de Neuroliderazgo
+			Profesional bilingüe (español-inglés), con 15 años de experiencia en gestión comercial en el mercado nacional e internacional, y liderazgo de equipos de trabajo en empresas locales e internacionales.
+			Comprometida con la generación de procesos de cambios personales, de equipos y organizacionales.
+			Ha prestado servicios como Coach y Facilitadora para organizaciones como British Council, Fundación Portas, Previred y Red de Salud UC Christus, y ha realizado
+			también talleres de propia autoría, abiertos a público general.
+		</p>
+		  <a href="#" rel="modal:close">Cerrar</a>
+  </div>
+
+
+  <div id="overlayer"></div>
+  <div class="loader">
+    <div class="spinner-border text-primary" role="status">
+      <span class="sr-only">Cargando...</span>
+    </div>
+  </div>
+
+  <div class="site-wrap"  id="home-section">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+
+    <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+
+          <div class="col-6 col-md-3 col-xl-4  d-block">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">
+					<img src="assets/logotipos.png" />
+			</h1>
+          </div>
+
+          <div class="col-12 col-md-9 col-xl-8 main-menu">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block ml-0 pl-0">
+                <li><a href="#home-section" class="nav-link">Inicio</a></li>
+                <li><a href="#features-section" class="nav-link">Empresa</a></li>
+				<!--
+                <li class="has-children">
+                  <a href="#about-section" class="nav-link"></a>
+                  <ul class="dropdown arrow-top">
+                    <li><a href="#" target="_blank" class="nav-link"><span class="text-primary">More Free Templates</span></a></li>
+                    <li><a href="#our-team-section" class="nav-link">Our Team</a></li>
+                    <li class="has-children">
+                      <a href="#">More Links</a>
+                      <ul class="dropdown">
+                        <li><a href="#">Menu One</a></li>
+                        <li><a href="#">Menu Two</a></li>
+                        <li><a href="#">Menu Three</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+				-->
+                <li><a href="https://www.lcs-chile.com/" class="nav-link enforce">Escuela</a></li>
+                <li><a href="#our-team-section" class="nav-link">Nosotros</a></li>
+                <li><a href="#contact-section" class="nav-link">Contáctanos</a></li>
+              </ul>
+            </nav>
+          </div>
+
+
+          <div class="col-6 col-md-9 d-inline-block d-lg-none ml-md-0" ><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
+
+        </div>
+      </div>
+
+    </header>
+
+
+    <div class="site-blocks-cover" style="overflow: hidden;">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+
+          <div class="col-md-12" style="position: relative;" data-aos="fade-up" data-aos-delay="200">
+
+            <img src="images/undraw_investing_7u74.svg" alt="Image" class="img-fluid img-absolute">
+
+            <div class="row mb-4" data-aos="fade-up" data-aos-delay="200">
+              <div class="col-lg-6 mr-auto">
+                <h1>Liedtke Consulting Group</h1>
+				<p class="mb-5">
+					Llevamos a los líderes y a sus equipos a lograr resultados <strong>extraordinarios</strong> en el tiempo, en un ambiente ético y humano, utilizando el coaching como camino de aprendizaje</p>
+                <div>
+                  <a href="#about-section" class="btn btn-primary mr-2 mb-2">Conoce más</a>
+                </div>
+              </div>
+
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-section bg-light" id="about-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12 text-center">
+            <h2 class="section-title mb-3">Acerca de nostros</h2>
+          </div>
+        </div>
+        <div class="row mb-5">
+          <div class="col-lg-6" data-aos="fade-right">
+            <img src="images/undraw_bookmarks_r6up.svg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 ml-auto pl-lg-5">
+            <h2 class="text-black mb-4 h3 font-weight-bold">Nuestros valores</h2>
+			<!--
+            <p class="mb-4">
+			La misión de Liedtke Consulting Group es mover a los líderes y a sus equipos a lograr resultados extraordinarios en el tiempo, en un ambiente ético y humano, utilizando el Coaching como camino de aprendizaje. Nos hacemos cargo de seleccionar y entrenar coaches de primer nivel del mundo de las empresas para asegurar la calidad del trabajo para nuestros clientes. Creemos en un modelo de compensación que deja contento a todas las partes involucradas. Nos mueven nuestra Visión, misión y valores así como nuestros estándares éticos.
+			</p>
+			-->
+            <ul class="ul-check mb-5 list-unstyled success">
+				<li>
+					<strong>Integros</strong>: Consideramos que es este nuestro valor primario del cual emanan todos los otros. Nuestra integridad se ve reflejada en el servicio hacia nuestros clientes pero también en el trato entre nosotros mismos.
+				</li>
+				<li>
+					<strong>Humildes</strong>: Estamos al servicio de las personas en nuestra vida profesional y personal.
+				</li>
+				<li>
+					<strong>Cumplidores</strong>: Cumplimos nuestras promesas para nutrir la confianza que tienen nuestros clientes en nosotros.
+				</li>
+				<li>
+					<strong>Crecimiento Constantes</strong>: Nos declaramos estar en la senda del aprendiz, siempre.
+				</li>
+				<li>
+					<strong>Discretos</strong>: No hablamos con terceros de nuestros clientes, ¡nunca!
+				</li>
+				<li>
+					<strong>Somos COACHES</strong>: Vivimos nuestra vida desde el coaching y nos apasiona.
+				</li>
+            </ul>
+			<!--
+            <p><a href="#" class="btn btn-primary">Learn More</a></p>
+			-->
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <div class="site-section" id="features-section">
+      <div class="container">
+        <div class="row mb-5 justify-content-center text-center"  data-aos="fade-up">
+          <div class="col-7 text-center  mb-5">
+            <h2 class="section-title">Nuestra empresa</h2>
+            <p class="lead">
+				Lo que hacemos para agregar valor a nuestros clientes.
+			</p>
+			<p>
+				Todos nuestros programas parten con la definición clara del objetivo que se desea alcanzar.
+				Método incluye assessment de personalidad (HOGAN Interpret o LFR y/o 360 de Kaplan D’Vries), para crear autoconsciencia estratégica.
+			</p>
+          </div>
+        </div>
+        <div class="row align-items-stretch">
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+
+            <div class="unit-4 d-block">
+              <div class="unit-4-icon mb-3">
+                <span class="icon-wrap"><span class="text-primary icon-autorenew"></span></span>
+              </div>
+              <div>
+                <h3>COACHING EJECUTIVO</h3>
+                <p>
+						6 - 10 sesiones de coaching ejecutivo realizado por business coaches nivel PCC (más de 700 horas de experiencia).
+				</p>
+                <p>
+						Reunión intermedia y de cierre para revisar en qué medida se alcanzo el objetivo.</p>
+				</p>
+						<!--<p><a href="#">Learn More</a></p>-->
+              </div>
+            </div>
+
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="unit-4 d-block">
+              <div class="unit-4-icon mb-3">
+                <span class="icon-wrap"><span class="text-primary icon-store_mall_directory"></span></span>
+              </div>
+              <div>
+                <h3>COACHING DE EQUIPOS</h3>
+				<p>
+				Sesiones de acompañamiento mensual o cada dos semanas por 2 Business Coaches nivel PCC (mas de 700 horas de experiencia).
+				</p>
+				<p style="margin-bottom: 0.5rem">
+					 Duración del programa:
+                </p>
+                <p>
+					 3 - 6 meses.
+				</p>
+				<!--
+                <p><a href="#">Learn More</a></p>
+				-->
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up"  data-aos-delay="200">
+            <div class="unit-4 d-block">
+              <div class="unit-4-icon mb-3">
+                <span class="icon-wrap"><span class="text-primary icon-shopping_basket"></span></span>
+              </div>
+              <div>
+                <h3>PROGRAMAS DE LIDERAZGO</h3>
+                <p>
+					 Combinamos talleres de aprendizaje experiencial de competencias de liderazgo con coaching. ejecutivo realizado por 2 Business Coaches nivel PCC (mas de 700 horas de experiencia).
+                </p>
+				<p style="margin-bottom: 0.5rem">
+					 Duración del programa:
+                </p>
+                <p>
+					 3 - 6 meses.
+				</p>
+				<!--
+                <p><a href="#">Learn More</a></p>
+				-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	<!--
+    <div class="feature-big">
+      <div class="container">
+        <div class="row mb-5 site-section">
+          <div class="col-lg-7" data-aos="fade-right">
+            <img src="images/undraw_gift_card_6ekc.svg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
+            <h2 class="text-black">Communicate and gather feedback</h2>
+            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.</p>
+
+            <div class="author-box" data-aos="fade-left">
+              <div class="d-flex mb-4">
+                <div class="mr-3">
+                  <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded-circle">
+                </div>
+                <div class="mr-auto text-black">
+                  <strong class="font-weight-bold mb-0">Grey Simpson</strong> <br>
+                  Co-Founder, XYZ Inc.
+                </div>
+              </div>
+              <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus vitae ipsa asperiores inventore aperiam iure?&rdquo;</blockquote>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-5 row mb-5 site-section ">
+          <div class="col-lg-7 order-1 order-lg-2" data-aos="fade-left">
+            <img src="images/undraw_metrics_gtu7.svg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 pr-lg-5 mr-auto mt-5 order-2 order-lg-1">
+            <h2 class="text-black">Communicate and gather feedback</h2>
+            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam</p>
+
+
+
+            <div class="author-box" data-aos="fade-right">
+              <div class="d-flex mb-4">
+                <div class="mr-3">
+                  <img src="images/person_1.jpg" alt="Image" class="img-fluid rounded-circle">
+                </div>
+                <div class="mr-auto text-black">
+                  <strong class="font-weight-bold mb-0">Kimberly Gush</strong> <br>
+                  Co-Founder, XYZ Inc.
+                </div>
+              </div>
+              <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus vitae ipsa asperiores inventore aperiam iure?&rdquo;</blockquote>
+            </div>
+          </div>
+        </div>
+
+        <div class="row mb-5 site-section">
+          <div class="col-lg-7" data-aos="fade-right">
+            <img src="images/undraw_gift_card_6ekc.svg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
+            <h2 class="text-black">Communicate and gather feedback</h2>
+            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam.</p>
+
+            <div class="author-box" data-aos="fade-left">
+              <div class="d-flex mb-4">
+                <div class="mr-3">
+                  <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded-circle">
+                </div>
+                <div class="mr-auto text-black">
+                  <strong class="font-weight-bold mb-0">Grey Simpson</strong> <br>
+                  Co-Founder, XYZ Inc.
+                </div>
+              </div>
+              <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus vitae ipsa asperiores inventore aperiam iure?&rdquo;</blockquote>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-5 row mb-5 site-section ">
+          <div class="col-lg-7 order-1 order-lg-2" data-aos="fade-left">
+            <img src="images/undraw_metrics_gtu7.svg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 pr-lg-5 mr-auto mt-5 order-2 order-lg-1">
+            <h2 class="text-black">Communicate and gather feedback</h2>
+            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam</p>
+
+
+
+            <div class="author-box" data-aos="fade-right">
+              <div class="d-flex mb-4">
+                <div class="mr-3">
+                  <img src="images/person_1.jpg" alt="Image" class="img-fluid rounded-circle">
+                </div>
+                <div class="mr-auto text-black">
+                  <strong class="font-weight-bold mb-0">Kimberly Gush</strong> <br>
+                  Co-Founder, XYZ Inc.
+                </div>
+              </div>
+              <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus vitae ipsa asperiores inventore aperiam iure?&rdquo;</blockquote>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	-->
+
+
+
+    <div class="site-section" id="our-team-section">
+      <div class="container">
+        <div class="row mb-5 justify-content-center text-center"  data-aos="fade-up">
+          <div class="col-7 text-center  mb-5">
+            <h2 class="section-title">Nuestro Equipo</h2>
+			<!--
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga quos quaerat sapiente nam, id vero.</p>
+			-->
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="person">
+              <div class="bio-img">
+				<a href="#ex1" rel="modal:open">
+					<figure>
+					  <img src="assets/andreas.jpg" alt="Image" class="img-fluid">
+					</figure>
+				</a>
+					<!--
+                <div class="social">
+                  <a href="#"><span class="icon-facebook"></span></a>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </div>
+					-->
+              </div>
+              <h2 class="text-black h1">Andreas Liedtke</h2>
+              <span class="sub-title d-block mb-3">Fundador</span>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="person">
+              <div class="bio-img">
+				<a href="#ex2" rel="modal:open">
+					<figure>
+						<img src="assets/ximena.jpg" alt="Image" class="img-fluid">
+					</figure>
+				</a>
+				<!--
+                <div class="social">
+                  <a href="#"><span class="icon-facebook"></span></a>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </div>
+				-->
+              </div>
+              <h2 class="text-black h1">Ximena Faúndez</h2>
+              <span class="sub-title d-block mb-3">Backup Logístico</span>
+			  <!--
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi accusantium repellat.</p>
+			  -->
+
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="person">
+              <div class="bio-img">
+				<a href="#ex3" rel="modal:open">
+					<figure>
+						<img src="assets/rodrigo.jpg" alt="Image" class="img-fluid">
+					</figure>
+				</a>
+				<!--
+                <div class="social">
+                  <a href="#"><span class="icon-facebook"></span></a>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </div>
+				-->
+              </div>
+              <h2 class="text-black h1">Rodrigo Silva</h2>
+              <span class="sub-title d-block mb-3">Fundador</span>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up">
+            <div class="person">
+              <div class="bio-img">
+				<a href="#ex4" rel="modal:open">
+					<figure>
+						<img src="assets/juan.jpg" alt="Image" class="img-fluid">
+					</figure>
+				</a>
+				<!--
+                <div class="social">
+                  <a href="#"><span class="icon-facebook"></span></a>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </div>
+				-->
+              </div>
+              <h2 class="text-black h1">Juan José Gibson</h2>
+              <span class="sub-title d-block mb-3">Coach Formador Senior</span>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="person">
+              <div class="bio-img">
+				<a href="#ex5" rel="modal:open">
+					<figure>
+					  <img src="assets/claudia-leon.jpg" alt="Image" class="img-fluid">
+					</figure>
+				  </a>
+				<!--
+                <div class="social">
+                  <a href="#"><span class="icon-facebook"></span></a>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </div>
+				-->
+              </div>
+              <h2 class="text-black h1">Claudia León</h2>
+              <span class="sub-title d-block mb-3">Directora Formación Online</span>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="person">
+              <div class="bio-img">
+				<a href="#ex6" rel="modal:open">
+					<figure>
+					  <img src="assets/fernando-miranda.jpg" alt="Image" class="img-fluid">
+					</figure>
+				</a>
+				<!--
+                <div class="social">
+                  <a href="http://facebook.com"><span class="icon-facebook"></span></a>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </div>
+				-->
+              </div>
+              <h2 class="text-black h1">Fernando Miranda</h2>
+              <span class="sub-title d-block mb-3">Coach Formador Senior</span>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="site-section testimonial-wrap bg-light" id="testimonials-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12 text-center">
+            <h2 class="section-title mb-3">Equipo</h2>
+			<img src="assets/equipo.jpg" style="max-width:100%">
+          </div>
+        </div>
+      </div>
+	  <!--
+      <div class="slide-one-item home-slider owl-carousel">
+          <div>
+            <div class="testimonial">
+              <figure class="mb-4 d-block align-items-center justify-content-center">
+                <div><img src="images/person_3.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
+              </figure>
+              <blockquote class="mb-3">
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+              </blockquote>
+              <p class="text-black"><strong>John Smith</strong></p>
+
+
+            </div>
+          </div>
+          <div>
+            <div class="testimonial">
+
+              <figure class="mb-4 d-block align-items-center justify-content-center">
+                <div><img src="images/person_2.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
+              </figure>
+
+              <blockquote class="mb-3">
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+              </blockquote>
+
+              <p class="text-black"><strong>Robert Aguilar</strong></p>
+
+
+            </div>
+          </div>
+
+          <div>
+            <div class="testimonial">
+              <figure class="mb-4 d-block align-items-center justify-content-center">
+                <div><img src="images/person_4.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
+              </figure>
+              <blockquote class="mb-3">
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+              </blockquote>
+              <p class="text-black"><strong>Roger Spears</strong></p>
+
+
+            </div>
+
+          </div>
+
+          <div>
+            <div class="testimonial">
+              <figure class="mb-4 d-block align-items-center justify-content-center">
+                <div><img src="images/person_1.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
+              </figure>
+              <blockquote class="mb-3">
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+              </blockquote>
+              <p class="text-black"><strong>Kyle McDonald</strong></p>
+
+
+            </div>
+
+          </div>
+
+        </div>
+	  -->
+    </div>
+
+	<!--
+    <div class="site-section" id="blog-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12 text-center">
+            <h2 class="section-title mb-3">Blog Posts</h2>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+              <h2><a href="#">Liedtke Consulting Group</a></h2>
+              <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p><a href="#">Continue Reading...</a></p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+              <h2><a href="#">Make Your Business More Profitable</a></h2>
+              <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p><a href="#">Continue Reading...</a></p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/img_3.jpg" alt="Image" class="img-fluid">
+              <h2><a href="#">Make Your Business More Profitable</a></h2>
+              <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p><a href="#">Continue Reading...</a></p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+	-->
+
+    <div class="site-section bg-image2 overlay" id="contact-section" style="background-image: url('images/hero_1.jpg');">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12 text-center">
+            <h2 class="section-title mb-3 text-white">Contáctanos</h2>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-7 mb-5">
+
+
+
+			  <form action="https://formspree.io/moqkazlv" method="POST" class="p-5 bg-white">
+
+              <h2 class="h4 text-black mb-5">Formulario de Contacto</h2>
+
+              <div class="row form-group">
+                <div class="col-md-6">
+                  <label class="text-black" for="lname">Nombre</label>
+                  <input name="name" type="text" id="lname" class="form-control rounded-0">
+                </div>
+              </div>
+
+              <div class="row form-group">
+
+                <div class="col-md-12">
+                  <label class="text-black" for="email">Email</label>
+                  <input type="email" name="email" id="email" class="form-control rounded-0">
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <label class="text-black" for="message">Mensaje</label>
+                  <textarea name="message" id="message" cols="30" rows="7" class="form-control rounded-0" placeholder="Deja tu mensaje aquí"></textarea>
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <input type="submit" value="Enviar mensaje" class="btn btn-primary mr-2 mb-2">
+                </div>
+              </div>
+
+
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="footer py-5 text-center">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-12">
+            <p class="mb-0">
+              <a href="https://cl.linkedin.com/in/lcgcb" class="p-3"><span class="icon-linkedin"></span></a>
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <p class="mb-0">
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> <!-- .site-wrap -->
+
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+
+  <script src="js/main.js"></script>
+
+  </body>
+</html>
